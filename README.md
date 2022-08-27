@@ -2,7 +2,6 @@
 
 # Technologies
 
-### Installation
 
 php
 

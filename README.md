@@ -1,4 +1,4 @@
-# newsletter_subscription_service-and-contact-form-using-php-javascript-and-mysql
+# newsletter_subscription_service-and-contact-form
 
 #Technologies
 --html

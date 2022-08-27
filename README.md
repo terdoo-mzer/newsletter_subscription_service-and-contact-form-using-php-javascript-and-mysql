@@ -14,6 +14,6 @@ phpmailer
 
 # Template
 
-[Here] (https://templatemo.com/tag/one-page)
+[Here](https://templatemo.com/tag/one-page)
 
 
